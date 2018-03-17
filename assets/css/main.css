@@ -3391,7 +3391,7 @@
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: 14rem;
+				height: 6rem;
 				padding-bottom: 4rem;
 			}
 
@@ -3400,6 +3400,7 @@
 		@media screen and (max-width: 736px) {
 
 			#header {
+				height: 6rem;
 				padding-bottom: 3rem;
 			}
 
