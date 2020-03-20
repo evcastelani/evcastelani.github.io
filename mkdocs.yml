@@ -1,9 +1,9 @@
 site_name: evcastelani
 nav:
         - Home: index.md
-        - Escritos: escritos.md 
-        - Projetos:
+        - Escritos: 
                 - Editores de texto: escritos/editores.md  
+        - Projetos: projetos.md
         - CV: cv.md 
         - Agenda: agenda.md  
 extra_javascript: 
