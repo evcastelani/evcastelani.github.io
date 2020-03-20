@@ -1,8 +1,9 @@
 # Editores de texto
 
-*Publicado em*
 
-*Última edição em*
+*Publicado em 20/03/2020* 
+
+*Última edição em 20/03/2020*
 
 Em minhas atividades rotineiras, como por exemplo, escrever notas de aula ou implementar algum algoritmo, tenho uma forte dependência de editores de texto. Dessa forma, já testei várias ferramentas que gostaria de listar aqui, onde tentei (ainda que não seja um expert) utilizar cada uma delas com algum nível aceitável de produtividade. Claramente, não são as únicas ferramentas existentes no mercado e muito do que está associado aqui são apenas impressões pessoais. Mas vamos lá. Antes de ler o texto, atente-se ao fato de que em meu uso diário trabalho fortemente com LaTeX e com programação em linguagem Julia, além de esporádicamente, escrever algumas coisas para estes documentos. 
 
